@@ -1,13 +1,13 @@
 - 👋 Olá! Eu sou o Kevin. :)
 - 👨‍🎓 Estou estudando Sistemas de Informação na UniLasalle-RJ.
-- 🥁 Toco bateria - nada tão bom assim. Rsrs.
-- 👨‍✈️ Piloto Drones nas horas vagas... O mundo visto de cima é muito mais legal! 
-- 💞️ Estou aqui para aprender a codificar, participar de projetos da faculdade e quem sabe virar um cara bom nisso. 
-- ⌨️ Já conheço html, C, JS, CSS. 
-- 📫 Caso queira me achar me envie um e-mail --> Kevin.borba@soulasalle.com.br.
+- 🥁 Toco bateria.
+- 👨‍✈️ Piloto Drones. O mundo visto de cima é muito mais legal! 
+- 💞️ Quero aprender muito e desenvolver meus conhecimentos! 
+- ⌨️ Já conheço html, C, JS, CSS, SQL e Python. 
+- 📫 Caso queira me achar me envie um e-mail --> Kevin.borba@soulasalle.com.br ou Kevin.haddad@hotmail.com.
 
-  É isso... O mundo é daqueles que arriscam! 🚀
-  Estou aqui me esforçando para me tornar alguém melhor e fazer o mundo ao meu redor melhor através do conhecimento.
+  O mundo é daqueles que arriscam! 🚀
+  Façamos o mundo melhor através do conhecimento.
   Até logo!
 
 <!---
