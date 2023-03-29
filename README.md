@@ -1,14 +1,10 @@
 - 👋 Olá! Eu sou o Kevin. :)
-- 👨‍🎓 Estou estudando Sistemas de Informação na UniLasalle-RJ.
-- 🥁 Toco bateria.
-- 👨‍✈️ Piloto Drones. O mundo visto de cima é muito mais legal! 
-- 💞️ Quero aprender muito e desenvolver meus conhecimentos! 
-- ⌨️ Já conheço html, C, JS, CSS, SQL e Python. 
-- 📫 Caso queira me achar me envie um e-mail --> Kevin.borba@soulasalle.com.br ou Kevin.haddad@hotmail.com.
+- 👨‍🎓 Estudo Sistemas de Informação na UniLasalle-RJ. 
 
-  O mundo é daqueles que arriscam! 🚀
-  Façamos o mundo melhor através do conhecimento.
-  Até logo!
+- Atualmente trabalho com Ciência de Dados.
+- 
+- ⌨️ Nessa jornada já aprendi sobre html, JS, CSS, C, Java, SQL e Python. 
+- 📫 Caso queira me achar me envie um e-mail --> Kevin.borba@soulasalle.com.br ou Kevin.haddad@hotmail.com.
 
 <!---
 kevinhaddad/kevinhaddad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
