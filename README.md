@@ -1,10 +1,9 @@
 - 👋 Olá! Eu sou o Kevin. :)
-- 👨‍🎓 Estudo Sistemas de Informação na UniLasalle-RJ. 
+- 👨‍🎓 Sou formado em Sistemas de Informação pela UniLasalle-RJ. 
 
-- Atualmente trabalho com Ciência de Dados.
-
-- ⌨️ Nessa jornada já aprendi sobre html, JS, CSS, C, Java, SQL e Python. 
-- 📫 Caso queira me achar me envie um e-mail --> Kevin.borba@soulasalle.com.br ou Kevin.haddad@hotmail.com.
+- Atualmente trabalho na área de Dados.
+ 
+- 📫 Entre em contato pelo e-mail --> Kevin.haddad@hotmail.com.
 
 <!---
 kevinhaddad/kevinhaddad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
